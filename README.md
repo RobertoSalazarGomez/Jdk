@@ -45,7 +45,7 @@ Ahora procederemos a realizar la instalación de una versión especifica de Open
 
    <img src="Img/7.png" alt="Imagen 7">
    <img src="Img/8.png" alt="Imagen 8">
-2. Después de instalar la versión 8 comprobamos la versión instalada de Java, para ello utilizaremos el siguente comando:
+2. Después de instalar la versión 8 comprobamos la versión instalada de Java, para ello utilizaremos el siguiente comando:
 
   ```
   java --version
